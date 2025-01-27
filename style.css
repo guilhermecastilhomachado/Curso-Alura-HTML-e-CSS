@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(148, 172, 238);
+    color: white;
+}
+
+header {
+    background-color: #f79696;
+}
+
+main{
+    background-color: aqua;
+    color: black;
+}
+
+button {
+    background-color: rgb(0, 255, 76);
+    padding: 15px 55px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: #fbff00;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+a {
+    color: DodgerBlue;
+}
